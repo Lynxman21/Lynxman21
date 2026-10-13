@@ -38,4 +38,6 @@ Here are some ideas to get you started:
 
 [![Gmail](https://img.shields.io/badge/Gmail-contact-%23f00b07.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateuszrys97@gmail.com)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mateusz-rys)
+
 Thanks for stopping by, feel free to look around
